@@ -62,3 +62,6 @@ while True:
     if revelado == [[True, True], [True, True]]:
         print(f"\nParabéns! Você venceu em {jogadas} jogadas.")
         break
+
+
+#teste
